@@ -1,2 +1,2 @@
 # Engine
-This is repository Game Engine 
+This is repository an Opengl Game Engine 
